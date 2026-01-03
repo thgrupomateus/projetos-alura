@@ -1,3 +1,4 @@
+//primeiro commit
 const inputItem = document.getElementById("input-item");
 const listaDeCompras = document.getElementById("lista-de-compras");
 const botaoAdcionar = document.getElementById("adicionar-item");
